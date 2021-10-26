@@ -35,6 +35,16 @@ style: |
     .column2 {
         grid-area: column2;
     }
+    .footer-img {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background: #fffff0e6;
+        padding: 15px;
+        border-radius: 0px 20px 0px 0px;
+        box-shadow: 10px 0px 10px #000000;
+        box-shadow: -5px 5px 15px 15px #00000099;
+    }
 paginate: true
 author: Samuel Mesa <femesagi@unal.edu.co>
 title: Introducción a los SIG
@@ -179,21 +189,30 @@ Se accede de manera libre al software, no hay restricciones de uso, se puede mod
 
 ![bg fit](img/arcgis.gif)
 
----
-
-![bg fit](img/autocad.gif)
+<div class="footer-img">ArcGIS Pro</div>
 
 ---
 
-![bg fit](img/geomedia.png)
+![bg fit](https://i.imgur.com/qaFpkVs.gif)
+<div class="footer-img">AutoCAD 3D</div>
 
 ---
 
-![bg fit](img/supergis.png)
+![bg fit](https://i.imgur.com/M3CIlfr.gif)
+
+<div class="footer-img">Geomedia</div>
+
+---
+
+![bg fit](https://i.imgur.com/Xk6nzmp.gif)
+
+<div class="footer-img">SuperGIS</div>
 
 ---
 
 ![bg fit](img/supermap.gif)
+
+<div class="footer-img">SuperMap</div>
 
 
 ---
@@ -229,3 +248,48 @@ Se accede de manera libre al software, no hay restricciones de uso, se puede mod
     - Proveedor Comunidad de Software Libre: https://www.mapwindow.org, https://www.medellin.unal.edu.co/~hidrosig 
 - **SPRING GIS – TerraView**
     - Proveedor INPE de Brasil: Sitio Web: http://www.dpi.inpe.br/spring, http://www.dpi.inpe.br/terraview 
+
+---
+
+![bg fit](img/gvsig.gif)
+
+<div class="footer-img">gvSIG</div>
+
+---
+
+![bg fit](https://i.imgur.com/2nvhfPJ.gif)
+
+<div class="footer-img">QGIS</div>
+
+---
+
+![bg fit](https://i.imgur.com/LCk5oeT.gif)
+
+<div class="footer-img">GRASS GIS</div>
+
+---
+
+![bg fit](img/ilwis.gif)
+
+<div class="footer-img">ILWIS</div>
+
+---
+
+
+![bg fit](https://i.imgur.com/4V2FkO9.gif)
+
+<div class="footer-img">SAGA GIS</div>
+
+---
+
+![bg fit](https://i.imgur.com/2VXeQDq.gif)
+
+<div class="footer-img">MapWindow</div>
+
+---
+
+![bg fit](https://i.imgur.com/GL8rAFb.gif)
+
+<div class="footer-img">SPRING GIS</div>
+
+
